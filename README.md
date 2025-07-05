@@ -2,7 +2,7 @@
 
 Welcome to the **Singapore HDB Resale Price Prediction** project!  
 This project focuses on analyzing and predicting the resale prices of **HDB flats** in different regions of Singapore using real-world data and machine learning models.   
-
+ 
 ---
 
 ## 📌 Project Objective
