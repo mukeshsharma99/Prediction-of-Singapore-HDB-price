@@ -5,7 +5,7 @@ This project focuses on analyzing and predicting the resale prices of **HDB flat
     
 ---   
    
-## 📌 Project Objective  
+## 📌 Project Objective   
 
 To develop a machine learning solution that accurately predicts **resale prices of HDB flats** in Singapore based on multiple housing and location-related factors.
 
