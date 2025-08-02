@@ -11,7 +11,7 @@ To develop a machine learning solution that accurately predicts **resale prices 
 
 ---
 
-## 📚 Project Workflow
+## 📚 Project Workflow 
 
 ### 🔧 1. Data Wrangling
 - Collected and cleaned HDB resale data
